@@ -39,19 +39,19 @@
 
 9. **What if there is a similar application, not a diagnostician, but a psychotherapist-coach?**
 
-- There is more trust here. It's like less dangerous.
+   - There is more trust here. It's like less dangerous.
 
 10. **Will you use it regularly for a long time? (At least a year)**
 
-- Depending on how well it suits me. Can't tell until I try.
+    - Depending on how well it suits me. Can't tell until I try.
 
 11. **Will you trust the empathy, support, and motivation from the app?**
 
-- Hardly to sympathy. The rest is possible
+    - Hardly to sympathy. The rest is possible
 
 12. **What does this depend on?**
 
-- How much the advice will help.
+    - How much the advice will help.
 
 ## Veronika
 
@@ -78,9 +78,10 @@
 - **Info:** Young woman
 
 - **Wants:**
-  - To use the app for free for some time to try and to understand if it helps.
-  - To receive personalized and motivational information.
-  - Over time, she will trust the app more and it can become a habit.
+
+   - To use the app for free for some time to try and to understand if it helps.
+   - To receive personalized and motivational information.
+   - Over time, she will trust the app more and it can become a habit.
 
 ## Luke
 
@@ -88,10 +89,11 @@
 
 - **Traits:**
 
-  - Passion for modern technology.
-  - Takes the environment and his health seriously.
-  - Uses a barcode-scanner app that shows nutri score of the food, helps eat a balanced diet and keep track of calories, proteins, fats, and carbohydrates.
+   - Passion for modern technology.
+   - Takes the environment and his health seriously.
+   - Uses a barcode-scanner app that shows nutri score of the food, helps eat a balanced diet and keep track of calories, proteins, fats, and carbohydrates.
 
 - **Interest:**
-  - Would be happy to use the daily lifestyle assistant, especially if it has API integration with other lifestyle applications.
-  - Would rather entrust real medical issues to professionals.
+
+   - Would be happy to use the daily lifestyle assistant, especially if it has API integration with other lifestyle applications.
+   - Would rather entrust real medical issues to professionals.
