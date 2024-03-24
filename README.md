@@ -51,7 +51,7 @@ Also, if we want ordinary people to use this app, we should add a better descrip
 	- GitHub: [@elibirov](https://github.com/elibirov)
 	- LinkedIn: [in/elibrovash](https://www.linkedin.com/in/elibrovash)
 - Boris Senkovskiy
-	- GitHub: [@elibirov](https://github.com/senkovskiy)
+	- GitHub: [@senkovskiy](https://github.com/senkovskiy)
 	- LinkedIn: [in/boris-senkovskiy](https://www.linkedin.com/in/boris-senkovskiy)
 - Marcel Wefers
 	- GitHub: ???
