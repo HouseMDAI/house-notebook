@@ -1,0 +1,3 @@
+# Technical Info
+
+The current version is based solely on prompt-engineering and works fine, but for even better results, consider using RAG (Retrieval-Augmented Generation) filled with a necessary medical knowledge base or even constructing a domain-specialized model. It's extremely critical to minimize hallucinations or unverified information and stick to verified and factual data. Also, playing with hyperparameters, like decreasing the temperature and expanding the context window, may help create a more focused, deterministic, precise, and factually grounded model. For more information, see "LLM customization levels" e.g. [knime.com/blog/4-levels-llm-customization](https://www.knime.com/blog/4-levels-llm-customization).
