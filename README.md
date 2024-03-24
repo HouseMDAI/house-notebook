@@ -41,3 +41,18 @@ Can it be even better? We say yes! How? Integration! The app can also take into 
 If the app monitors one's health, it means the person can be sent home from the hospital much earlier and free up space for somebody who requires it more. Doctors will monitor the status remotely, and the app will notify them if something is wrong.
 
 Also, if we want ordinary people to use this app, we should add a better description of diseases using simple words; translate from medical to English.
+
+## Team
+
+- Mark Parker
+	- GitHub: [@MarkParker5](https://github.com/MarkParker5)
+	- LinkedIn: [in/markparker5](https://www.linkedin.com/in/markparker5)
+- Ilya Brovashov
+	- GitHub: [@elibirov](https://github.com/elibirov)
+	- LinkedIn: [in/elibrovash](https://www.linkedin.com/in/elibrovash)
+- Boris Senkovskiy
+	- GitHub: [@elibirov](https://github.com/senkovskiy)
+	- LinkedIn: [in/boris-senkovskiy](https://www.linkedin.com/in/boris-senkovskiy)
+- Marcel Wefers
+	- GitHub: ???
+	- LinkedIn: [in/marcel-wefers-466067268](https://www.linkedin.com/in/marcel-wefers-466067268)
