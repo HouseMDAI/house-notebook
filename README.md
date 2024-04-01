@@ -54,5 +54,5 @@ Also, if we want ordinary people to use this app, we should add a better descrip
 	- GitHub: [@senkovskiy](https://github.com/senkovskiy)
 	- LinkedIn: [in/boris-senkovskiy](https://www.linkedin.com/in/boris-senkovskiy)
 - Marcel Wefers
-	- GitHub: ???
+	- GitHub: [@wefersmasasana](https://github.com/wefersmasasana)
 	- LinkedIn: [in/marcel-wefers-466067268](https://www.linkedin.com/in/marcel-wefers-466067268)
