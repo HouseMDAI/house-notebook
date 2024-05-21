@@ -1,5 +1,11 @@
 # House, M.D. AI
 
+## Articles
+
+- [How We Built an AI Startup in a Weekend Hackathon in Germany](https://markparker.me/blog/how-we-built-an-ai-startup-in-a-weekend-hackathon-in-germany)
+- [Dr. House — AI Diagnostician in your phone. Passing the Torch and Entrusting a Startup to Capable Hands](https://markparker.me/blog/house-md-ai-diagnostician-in-your-phone-passing-the-torch-and-entrusting-a-startup-to-capable-hands)
+- [AI-powered Mobile App with Backend in Two Days (Tutorial)](https://markparker.me/blog/ai-powered-mobile-app-with-backend-in-two-days-tutorial)
+
 ## Presentation
 
 When you're creating an AI product about health, there is always a question of ethics, accuracy, responsibility, and trust. That's why it's important to separate healthy lifestyle products and real medical ones. We thought long and hard about the line between them and how close we can get to it. It's a complex question, but we found a solution: create two standalone products that are far away from the line but on opposite sides.
